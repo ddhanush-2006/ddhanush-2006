@@ -40,23 +40,65 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 
 ---
 
+
 ### 🚀 Featured Projects
 
-- ✈️ **Aircraft Engine RUL Prediction**  
-  Predicting the remaining useful life of aircraft engines using the NASA C-MAPSS dataset.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>✈️ Aircraft Engine RUL Prediction</h3>
+      <p>
 
-- 🗺️ **Smart Route Planner**  
-  Exploring graph algorithms to find efficient routes.
+An upcoming machine learning project focused on predicting aircraft engine Remaining Useful Life using the NASA C-MAPSS dataset.
+**Planned focus:** Time-series analysis · Regression · Predictive maintenance</p>
+      <p><b>Focus:</b> Machine Learning · Time-Series Data · Regression</p>
+    </td>
+    <td width="50%">
+      <h3>🗺️ Smart Route Planner</h3>
+      <p>Finding efficient routes using graph algorithms and search strategies.</p>
+      <p><b>Focus:</b> Python · Dijkstra · A* · NetworkX</p>
+    </td>
+  </tr>
+</table>
 
-- 🚌 **College Transportation Management System**  
-  A database-driven application for managing college transportation.
+### 🌱 Open Source
+
+- Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions/pull/126366) by adding my GitHub profile to the contributors list and completing the fork, branch, commit, push, and pull request workflow.
+
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddhanush-2006&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanush-2006&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+</div>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddhanush-2006&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
 
 ### 🤝 Connect With Me
 
 - GitHub: [@ddhanush-2006](https://github.com/ddhanush-2006)
 
 ---
+
+---
+
+<div align="center">
+
+### ⚡ The grind never stops.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ddhanush-2006&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Building. Learning. Improving. Every day.**
+
+</div>
+
 
 *“Discipline makes the difference.”* ⚡
