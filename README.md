@@ -1,13 +1,12 @@
-
 <div align="center">
   <img src="./nnnn.jpg" width="100%" alt="Toji Fushiguro banner">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hey,+I'm+Dhanush+%F0%9F%91%8B;AI+%26+ML+Student+%7C+Aspiring+ML+Engineer;Building+Aircraft+Engine+RUL+Prediction+%E2%9C%88%EF%B8%8F;Learning+C%2B%2B,+DSA+%26+Machine+Learning" alt="Typing SVG" />
 </div>
 
+---
 
-
-# 👋 Hey, I'm Dhanush!
-
-### `AI & ML Student | Aspiring ML Engineer`
+### 👨‍💻 About Me
 
 I'm a third-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy solving problems, exploring machine learning, and building projects that turn ideas into practical solutions.
 
@@ -18,28 +17,17 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 
 ---
 
-
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-217346?style=for-the-badge)
-
-#### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-217346?style=for-the-badge" />
+</div>
 
 ---
-
 
 ### 🚀 Featured Projects
 
@@ -47,11 +35,8 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
   <tr>
     <td width="50%">
       <h3>✈️ Aircraft Engine RUL Prediction</h3>
-      <p>
-
-An upcoming machine learning project focused on predicting aircraft engine Remaining Useful Life using the NASA C-MAPSS dataset.
-**Planned focus:** Time-series analysis · Regression · Predictive maintenance</p>
-      <p><b>Focus:</b> Machine Learning · Time-Series Data · Regression</p>
+      <p>Predicting aircraft engine Remaining Useful Life using the NASA C-MAPSS dataset.</p>
+      <p><b>Focus:</b> Time-Series Analysis · Regression · Predictive Maintenance</p>
     </td>
     <td width="50%">
       <h3>🗺️ Smart Route Planner</h3>
@@ -63,42 +48,39 @@ An upcoming machine learning project focused on predicting aircraft engine Remai
 
 ### 🌱 Open Source
 
-- Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions/pull/126366) by adding my GitHub profile to the contributors list and completing the fork, branch, commit, push, and pull request workflow.
-
+- Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions/pull/126366) by completing the fork, branch, commit, push, and pull request workflow.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddhanush-2006&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanush-2006&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddhanush-2006&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanush-2006&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=ddhanush-2006&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </div>
 
-### 🐍 Contribution Activity
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddhanush-2006&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddhanush-2006&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 </div>
 
+---
 
 ### 🤝 Connect With Me
 
-- GitHub: [@ddhanush-2006](https://github.com/ddhanush-2006)
-
----
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-ddhanush--2006-181717?style=for-the-badge&logo=github)](https://github.com/ddhanush-2006)
 
 <div align="center">
-
-### ⚡ The grind never stops.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ddhanush-2006&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Building. Learning. Improving. Every day.**
 
+*"Discipline makes the difference."* ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer" />
+
 </div>
-
-
-*“Discipline makes the difference.”* ⚡
