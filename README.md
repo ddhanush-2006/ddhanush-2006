@@ -1,7 +1,5 @@
  <div align="center">
-  <img src="./nnnn.jpg" width="100%" alt="Toji Fushiguro banner">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hey,+I'm+Dhanush+%F0%9F%91%8B;AI+%26+ML+Student+%7C+Aspiring+ML+Engineer;Building+Aircraft+Engine+RUL+Prediction+%E2%9C%88%EF%B8%8F;Learning+C%2B%2B,+DSA+%26+Machine+Learning" alt="Typing SVG">
+  <img src="https://raw.githubusercontent.com/ddhanush-2006/ddhanush-2006/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation">
 </div>
 
 ---
