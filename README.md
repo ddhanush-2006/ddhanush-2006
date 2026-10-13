@@ -1,7 +1,7 @@
-<div align="center">
+ <div align="center">
   <img src="./nnnn.jpg" width="100%" alt="Toji Fushiguro banner">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hey,+I'm+Dhanush+%F0%9F%91%8B;AI+%26+ML+Student+%7C+Aspiring+ML+Engineer;Building+Aircraft+Engine+RUL+Prediction+%E2%9C%88%EF%B8%8F;Learning+C%2B%2B,+DSA+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Hey,+I'm+Dhanush+%F0%9F%91%8B;AI+%26+ML+Student+%7C+Aspiring+ML+Engineer;Building+Aircraft+Engine+RUL+Prediction+%E2%9C%88%EF%B8%8F;Learning+C%2B%2B,+DSA+%26+Machine+Learning" alt="Typing SVG">
 </div>
 
 ---
@@ -20,11 +20,11 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode&theme=dark" alt="Tech stack">
   <br><br>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Analysis-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Data_Analysis-217346?style=for-the-badge" alt="Data Analysis">
 </div>
 
 ---
@@ -46,6 +46,8 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
   </tr>
 </table>
 
+---
+
 ### 🌱 Open Source
 
 - Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions/pull/126366) by completing the fork, branch, commit, push, and pull request workflow.
@@ -55,32 +57,40 @@ I'm a third-year Computer Science student specializing in Artificial Intelligenc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddhanush-2006&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanush-2006&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddhanush-2006&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddhanush-2006&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=ddhanush-2006&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=ddhanush-2006&theme=tokyonight&hide_border=true" alt="Contribution streak">
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddhanush-2006&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+  <img src="https://github.com/ddhanush-2006/ddhanush-2006/blob/output/github-contribution-grid-snake.svg"
+       alt="GitHub contribution snake animation"
+       width="100%">
 </div>
 
 ---
 
 ### 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-ddhanush--2006-181717?style=for-the-badge&logo=github)](https://github.com/ddhanush-2006)
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ddhanush-2006&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/ddhanush-2006">
+  <img src="https://img.shields.io/badge/GitHub-ddhanush--2006-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ddhanush-2006&color=00C853&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
 
 **Building. Learning. Improving. Every day.**
 
 *"Discipline makes the difference."* ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer">
 
 </div>
